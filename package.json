@@ -43,7 +43,13 @@
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.17",
     "typescript": "^5.7.0",
-    "vite": "^6.0.6"
+    "vite": "^6.0.6",
+    "jest-junit": "^16.0.0",
+    "semantic-release": "^24.0.0",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^11.0.0",
+    "@semantic-release/gitlab": "^13.0.0"
   },
   "engines": {
     "node": ">=22.0.0"
